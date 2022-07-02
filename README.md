@@ -39,16 +39,18 @@
 - 🏦 I'm a web developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **php**,**laravel**
+- <img alt="GIF" src="https://github.com/AhmedMub/AhmedMub/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **MEVN Stack**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
 - 👯 We can connect to play some games of Dota2
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **MEVN Stack**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I LOVE **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Facebook: **[丂𝙋⚡乂𝘿](https://www.facebook.com/AhmedMub000)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+-  :rocket: Visit My Site *[丂7𝙋⚡SI𝘿](https://mubarak.codes)**
+- <img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I LOVE **GNU/Linux**. <br>
+- <img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- :rocket: Always ready to collaborate for Dev Experiments <br>
+- <img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Facebook: **[丂𝙋⚡乂𝘿](https://www.facebook.com/AhmedMub000)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
 <hr></hr>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
+<img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
+<img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
 
 </div>

@@ -39,7 +39,7 @@
 - 🏦 I'm a web developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **php**,**laravel**
-- <img alt="GIF" src="https://github.com/AhmedMub/AhmedMub/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **MEVN Stack**. <img width="30%" align="right" alt="Github Image" src="https://github.com/AhmedMub/AhmedMub/blob/main/images/linux_rounded.gif?raw=true" /><br>
+- <img alt="GIF" src="https://github.com/AhmedMub/AhmedMub/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **MEVN Stack**. <img width="50%" align="right" alt="Github Image" src="https://github.com/AhmedMub/AhmedMub/blob/main/images/linux_rounded.gif?raw=true" /><br>
 - 👯 We can connect to play some games of Dota2
 -  :rocket: Visit My Site *[丂7𝙋⚡SI𝘿](https://mubarak.codes)**
 - <img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I LOVE **GNU/Linux**. <br>

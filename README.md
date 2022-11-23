@@ -2,7 +2,7 @@
   <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" href="https://github.com/AhmedMub" alt="hello"/><br> 
 <img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/AhmedMub" alt="Ahmed Mubarak"  width="550"/><br> 
   
-  <br> Super nerd who loves Vim, Linux and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises. <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> Super nerd who loves Vim, Linux and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.<br>
 </div>
 
 <hr></hr>

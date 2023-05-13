@@ -31,7 +31,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a web developer
+- 🏦 I'm a Software Developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **php**,**laravel**
 - <img alt="GIF" src="https://github.com/AhmedMub/AhmedMub/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **MEVN Stack**. <img width="10%" align="right" alt="Github Image" src="https://github.com/AhmedMub/AhmedMub/blob/main/images/linux_rounded.gif?raw=true" /><br>

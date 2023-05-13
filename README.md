@@ -9,11 +9,10 @@
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Python](https://img.shields.io/badge/Python-f8cc46?style=flat&logo=python&logoColor=3a77a8)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777bb6?style=flat&logo=php&logoColor=474A8A)
 ![Laravel](https://img.shields.io/badge/Laravel-ddd?style=flat&logo=laravel&logoColor)
 ![Livewire](https://img.shields.io/badge/Livewire-3e1a9a?style=flat&logo=livewire&logoColor=fc70aa)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![jQuery](https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jQuery&logoColor=78cff5)
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)

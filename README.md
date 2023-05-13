@@ -2,7 +2,7 @@
   <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" href="https://github.com/AhmedMub" alt="hello"/><br> 
 <img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/AhmedMub" alt="Ahmed Mubarak"  width="550"/><br> 
   
-  <br> Super nerd who loves Vim, Linux and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.<br>
+  <br> I am a Software Developer passionate about problem-solving, and efficient teamwork. Love Vim, and Linux and enjoys customizing all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.<br>
 </div>
 
 <hr></hr>

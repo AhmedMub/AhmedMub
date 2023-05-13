@@ -9,7 +9,6 @@
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-f8cc46?style=flat&logo=python&logoColor=3a77a8)
 ![PHP](https://img.shields.io/badge/PHP-777bb6?style=flat&logo=php&logoColor=474A8A)
 ![Laravel](https://img.shields.io/badge/Laravel-ddd?style=flat&logo=laravel&logoColor)

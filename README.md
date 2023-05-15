@@ -1,5 +1,4 @@
 <div align="center" width="50">
-  <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" href="https://github.com/AhmedMub" alt="hello"/><br> 
 <img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/AhmedMub" alt="Ahmed Mubarak"  width="550"/><br> 
   
   <br> I am a Software Developer passionate about problem-solving, and efficient teamwork. Love Vim, and Linux and enjoys customizing all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.<br>
@@ -36,7 +35,7 @@
 - <img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I LOVE **GNU/Linux**. <br>
 - <img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **anything**. <br>
 - :rocket: Always ready to collaborate for Dev Experiments <br>
-- <img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Facebook: **[丂𝙋⚡乂𝘿](https://www.facebook.com/AhmedMub000)**<br>
+- <img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Linkedin: **[丂𝙋⚡乂𝘿](##)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
@@ -47,3 +46,4 @@
 </div>
 <!-- - 👯 We can connect to play some games of Dota2 -->
 <!-- -  :rocket: Visit My Site *[丂7𝙋⚡SI𝘿](https://mubarak.codes)** -->
+<!-- <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" href="https://github.com/AhmedMub" alt="hello"/><br>  -->

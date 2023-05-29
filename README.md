@@ -35,7 +35,7 @@
 - <img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I LOVE **GNU/Linux**. <br>
 - <img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **anything**. <br>
 - :rocket: Always ready to collaborate for Dev Experiments <br>
-- <img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Linkedin: **[丂𝙋⚡乂𝘿](##)**<br>
+- <img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Linkedin: **[丂𝙋⚡乂𝘿](https://www.linkedin.com/in/ahmedmubarakdev/)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/AhmedMub/AhmedMub/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
